@@ -27,8 +27,5 @@ cd frontend
 npm install
 npm start
 
-## 📸 Screenshots
-(Add screenshots here)
-
 ## 👩‍💻 Author
 Shilpashree
