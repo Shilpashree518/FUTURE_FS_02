@@ -28,4 +28,6 @@ npm install
 npm start
 
 ## 👩‍💻 Author
-Shilpashree
+Name: Shilpa Shree J
+CID: FIT/FEB26/FS11711
+
